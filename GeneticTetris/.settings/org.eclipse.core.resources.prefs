@@ -1,0 +1,17 @@
+#Tue Dec 06 03:37:41 BRST 2011
+eclipse.preferences.version=1
+encoding//test/teste3.py=utf-8
+encoding//test/teste_array_list.py=utf-8
+encoding/AIPlayer.py=utf-8
+encoding/AIThreadPlayer.py=utf-8
+encoding/GUIDesigner.py=utf-8
+encoding/GUIPlayer.py=utf-8
+encoding/GeneticTetris.py=utf-8
+encoding/PyEvolveTetris.py=utf-8
+encoding/TerminalPlayer.py=utf-8
+encoding/TetrisAI.py=utf-8
+encoding/TetrisBoard.py=utf-8
+encoding/TetrisGame.py=utf-8
+encoding/TetrisGenomeExample.py=utf-8
+encoding/Tetromino.py=utf-8
+encoding/TetrominoBoardControl.py=utf-8

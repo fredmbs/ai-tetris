@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "aitetris", "aitetris.vcxproj", "{2395F3B4-881B-49AF-8A66-2C38B6E03E6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CONSOLE|Win32 = CONSOLE|Win32
+		DEBUG_CONSOLE|Win32 = DEBUG_CONSOLE|Win32
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2395F3B4-881B-49AF-8A66-2C38B6E03E6C}.CONSOLE|Win32.ActiveCfg = CONSOLE|Win32
+		{2395F3B4-881B-49AF-8A66-2C38B6E03E6C}.CONSOLE|Win32.Build.0 = CONSOLE|Win32
+		{2395F3B4-881B-49AF-8A66-2C38B6E03E6C}.DEBUG_CONSOLE|Win32.ActiveCfg = DEBUG_CONSOLE|Win32
+		{2395F3B4-881B-49AF-8A66-2C38B6E03E6C}.DEBUG_CONSOLE|Win32.Build.0 = DEBUG_CONSOLE|Win32
+		{2395F3B4-881B-49AF-8A66-2C38B6E03E6C}.Debug|Win32.ActiveCfg = Release|Win32
+		{2395F3B4-881B-49AF-8A66-2C38B6E03E6C}.Debug|Win32.Build.0 = Release|Win32
+		{2395F3B4-881B-49AF-8A66-2C38B6E03E6C}.Release|Win32.ActiveCfg = Release|Win32
+		{2395F3B4-881B-49AF-8A66-2C38B6E03E6C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
